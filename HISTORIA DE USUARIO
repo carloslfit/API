@@ -1,0 +1,21 @@
+HISTORIA DE USUARIO
+
+Como dueño
+acceder al sistema para ver las ventas de cada dia
+para tener un mejor control de la produccion
+
+criterios de aceptecion
+las ventas debe mostrar un resumen de las ventas diaras
+el sistema debe mostrar el total del dia
+
+Como empleado
+quiero tener un documento donde se registran los productos elaborados
+por cada empleado 
+para saber cuantos productos elabora cada uno
+
+Criterios de aceptacion
+El sistema  debe permitir registrar los productos elaborados de cada empleado
+el documento debe permitir consultar la informacion por empleado
+
+
+
